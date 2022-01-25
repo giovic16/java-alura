@@ -5,6 +5,7 @@ public class Desafio {
         for(int multiplo = 1; multiplo < 100; multiplo++) {
            if(multiplo % 3 == 0) {
                System.out.println(multiplo);
+
            }
         }
     }

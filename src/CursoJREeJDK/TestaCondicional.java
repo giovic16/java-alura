@@ -13,6 +13,7 @@ public class TestaCondicional {
                 System.out.println("Menor de idade, mas está acompanhado");
             } else {
                 System.out.println("Menor de 18 anos");
+
             }
         }
     }

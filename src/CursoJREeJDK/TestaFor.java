@@ -6,4 +6,5 @@ public class TestaFor {
             System.out.println(contador);
         }
     }
+
 }

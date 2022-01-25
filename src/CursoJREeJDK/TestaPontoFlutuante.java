@@ -8,3 +8,4 @@ public class TestaPontoFlutuante {
         System.out.println("Meu salário é " + salario);
     }
 }
+

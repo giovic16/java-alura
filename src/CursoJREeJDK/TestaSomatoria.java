@@ -12,3 +12,4 @@ public class TestaSomatoria {
         System.out.println(total);
     }
 }
+
